@@ -1,7 +1,6 @@
 # Bear Video Share
 
-Temporary share repo for reviewing Bear basketball edits.
+Approval videos:
 
-## Videos
-
-- [Bear free throws — all makes edit (2026-05-17)](videos/bear-free-throws-all-makes-2026-05-17.mp4)
+- [Bear free throws — all makes with tracker overlay (updated timing)](videos/bear-free-throws-all-makes-tracker-2026-05-17.mp4)
+- [Bear free throws — all makes original montage](videos/bear-free-throws-all-makes-2026-05-17.mp4)
